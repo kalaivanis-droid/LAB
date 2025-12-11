@@ -9,6 +9,6 @@ int main() {
     sum = a + b;
 
     printf("Sum = %d\n", sum);
-
+    printf(" a-b= %d\n",a-b);
     return 0;
 }
